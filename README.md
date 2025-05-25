@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋Hi , I'm TanakanshiHoshino 
+🤗 **大叔我，得稍微认真一点了哦~ 唉呀，有点不好意思呢
+** 
 
-<!--
-**MahiroONIMAI/mahiroonimai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 聯繫方式: neko@nyacat.cloud
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤓☝️️技術技能
+
+###### 我通過自學學習了以下工具&語言
+
+ **📋Preferred Languages** 
+
+ ![Java](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)![HTML5](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)![PHP](https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)![C++](https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
+
+
+
+ **💻Integrated Development Environments (IDEs)** 
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+ **📚 Frameworks, Platforms and Libraries
+** 
+
+![JavaFX](https://camo.githubusercontent.com/74b3f60f771039c9f1d0426fab375fbb3855168361c03e49845937a44cc582fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a61766166782d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a6176616678266c6f676f436f6c6f723d7768697465)![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)![NPM](https://camo.githubusercontent.com/fd00f5fb76a02f6093a50142c52193fa6353f4a1b5199827c57cbe99d611b532/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)![Spring](https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)![Vue.js](https://camo.githubusercontent.com/f60dd0bb1184e95c8dafd368e1dd4c3a77aa21f928088b1f21d265f1c03621cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675652e6a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844)
+
+
+#### Github status
+----
+![MahiroONIMAI的GitHub统计](https://github-readme-stats.vercel.app/api?username=MahiroONIMAI)
+![](https://fastly.jsdelivr.net/gh/MahiroONIMAI/GitHub-Stats@latest/generated/languages.svg)
