@@ -22,8 +22,7 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- **📚 Frameworks, Platforms and Libraries
-** 
+ **📚 Frameworks, Platforms and Libraries** 
 
 ![JavaFX](https://camo.githubusercontent.com/74b3f60f771039c9f1d0426fab375fbb3855168361c03e49845937a44cc582fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a61766166782d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a6176616678266c6f676f436f6c6f723d7768697465)![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)![NPM](https://camo.githubusercontent.com/fd00f5fb76a02f6093a50142c52193fa6353f4a1b5199827c57cbe99d611b532/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)![Spring](https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)![Vue.js](https://camo.githubusercontent.com/f60dd0bb1184e95c8dafd368e1dd4c3a77aa21f928088b1f21d265f1c03621cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675652e6a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844)
 
